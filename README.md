@@ -13,7 +13,7 @@ Modified fan_generic, Print cooling fan.
 #min_temp:
 #minimal temperature, temp_sensor <= min_temp, speed = min_spped
 #max_temp:
-#maximum temperature, temp_sensor >= max_temp, speed = max_spped
+#maximum temperature, temp_sensor >= max_temp, speed = max_speed
 #linear adjustment within min_temp...max_temp, speed proportionally between min_speed and max_speed
 #temp_sensor: temperature_sensor host_sbc
 #the value of the sensor that is taken for adjustment
